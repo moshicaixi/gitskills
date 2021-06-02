@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is just a test, ok?
-You are such a stupid girl!
+You are such a stupid boy!
+=======
+This is just a test, ok? 
+You are such a stupid boy!
+>>>>>>> dev
